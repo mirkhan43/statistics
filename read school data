@@ -1,0 +1,3 @@
+# R read text Files
+s = read.table('school.txt', header = TRUE)
+head(s) 
