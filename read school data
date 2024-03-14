@@ -1,3 +1,4 @@
 # R read text Files
-s = read.table('school.txt', header = TRUE)
+# https://github.com/mirkhan43/school/blob/main/school.txt
+s = read.table('d:/data/school.txt', header = TRUE)
 head(s) 
